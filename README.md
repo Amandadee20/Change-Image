@@ -1,7 +1,7 @@
 # Change-Image
-==
+
 To fullfil 1st Automating Real-World Task with Python on Bangkit : Google IT Automation with Python Course 
---
+
 
 *Case : To resize, rotate, and change the format from list of image then save it to new file*
 
